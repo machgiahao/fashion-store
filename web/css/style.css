@@ -1,0 +1,21 @@
+.bg-header{
+    background: rgb(10,15,21);
+    background: linear-gradient(96deg, rgba(10,15,21,1) 0%, rgba(96,106,108,1) 100%);
+}
+
+.logo {
+    max-width: 230px;
+    width: 100%;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.btn-bg-active {
+    background-color: white !important;
+    color: black !important;
+}
+
+.btn-minus{cursor:pointer;font-size:7px;display:flex;align-items:center;padding:5px;padding-left:10px;padding-right:10px;border:1px solid gray;border-radius:2px;border-right:0;}
+.btn-plus{cursor:pointer;font-size:7px;display:flex;align-items:center;padding:5px;padding-left:10px;padding-right:10px;border:1px solid gray;border-radius:2px;border-left:0;}
